@@ -141,7 +141,7 @@ sudo apt install ffmpeg
 ### ▶️ Run the Simulation
 
 ```bash
-python oscillating_atwood.py
+python atwood_osci.py
 ```
 
 The animation will automatically save as:

@@ -80,11 +80,11 @@ Key generalized coordinates:
 
 The coupled equations are:
 
-\ddot r = \frac{m_1 g \cos\theta - (m_1+m_2)g + m_1 r \dot\theta^2}{m_1+m_2}
+$$\ddot r = \frac{m_1 g \cos\theta - (m_1+m_2)g + m_1 r \dot\theta^2}{m_1+m_2}$$
 
 and
 
-\ddot\theta = \frac{-g\sin\theta - 2\dot r\dot\theta}{r}
+$$\ddot\theta = \frac{-g\sin\theta - 2\dot r\dot\theta}{r}$$
 
 ---
 

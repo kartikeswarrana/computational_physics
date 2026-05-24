@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly copy into your GitHub repo:
-
----
-
 # 🧠 Computational Physics
 
 Small, focused projects exploring how **Physics and Mathematics interact computationally**.
